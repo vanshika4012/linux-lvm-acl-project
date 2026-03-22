@@ -2,7 +2,7 @@
 
 ## 📄 Project Report
 
-👉 [Click to View](./report.pdf)
+👉 [Click to View](./https://github.com/vanshika4012/linux-lvm-acl-project/blob/main/Report.pdf.pdf)
 
 ---
 
